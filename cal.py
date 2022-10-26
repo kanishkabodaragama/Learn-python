@@ -20,7 +20,7 @@ print("4.Divide")
 
 while True:
    #Taking inputs from the user
-    choice = input("Enter choice(1/2): ")
+    choice = input("Enter choice(1/2/3/4): ")
     
     if choice in ('1', '2', '3', '4'):
         num1 = float(input("Enter first number: "))
